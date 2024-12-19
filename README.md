@@ -1,2 +1,2 @@
 # bookbot
-boot.dev practice making a book bot
+BookBot is my first project!
